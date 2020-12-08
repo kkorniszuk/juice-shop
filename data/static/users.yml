@@ -242,7 +242,7 @@
   key: emma
   role: 'customer'
 -
-  email: user11
+  email: superadmin22
   password: 'rbmv77wzd11'
   key: superadmin22
   role: 'admin'
@@ -266,7 +266,7 @@
       expMonth: 3
       expYear: 2061
 -
-  email: adminaccount
+  email: goldcustomer
   password: 'wzwe3233ddd#'
   key: goldcustomer
   role: 'customer'
