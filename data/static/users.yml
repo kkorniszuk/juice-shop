@@ -244,7 +244,7 @@
 -
   email: user11
   password: 'rbmv77wzd11'
-  key: user11
+  key: superadmin22
   role: 'admin'
   securityQuestion:
     id: 1
@@ -268,7 +268,7 @@
 -
   email: adminaccount
   password: 'wzwe3233ddd#'
-  key: adminaccount
+  key: goldcustomer
   role: 'customer'
   securityQuestion:
     id: 2
