@@ -92,6 +92,7 @@ products:
     image: apple_juice.jpg
     reviews:
       - { text: 'One of my favorites!', author: admin }
+      - { text: 'Great juice!!', author: goldcustomer}
   -
     name: 'Orange Juice (1000ml)'
     description: 'Made from oranges hand-picked by Uncle Dittmeyer.'
@@ -100,6 +101,7 @@ products:
     image: orange_juice.jpg
     reviews:
       - { text: 'y0ur f1r3wall needs m0r3 musc13', author: uvogin }
+      - { text: 'best one!!', author: goldcustomer}
   -
     name: 'Eggfruit Juice (500ml)'
     description: 'Now with even more exotic flavour.'
@@ -107,6 +109,7 @@ products:
     image: eggfruit_juice.jpg
     reviews:
       - { text: 'I bought it, would buy again. 5/7', author: admin }
+            - { text: 'Boring one.', author: goldcustomer}
   -
     name: 'Raspberry Juice (1000ml)'
     description: 'Made from blended Raspberry Pi, water and sugar.'
@@ -222,6 +225,7 @@ products:
     image: green_smoothie.jpg
     reviews:
       - { text: 'Fresh out of a replicator.', author: jim }
+            - { text: 'I dont like cabbages!', author: goldcustomer}
   -
     name: 'Quince Juice (1000ml)'
     description: 'Juice of the <em>Cydonia oblonga</em> fruit. Not exactly sweet but rich in Vitamin C.'
