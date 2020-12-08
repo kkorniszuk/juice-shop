@@ -109,7 +109,7 @@ products:
     image: eggfruit_juice.jpg
     reviews:
       - { text: 'I bought it, would buy again. 5/7', author: admin }
-            - { text: 'Boring one.', author: goldcustomer}
+      - { text: 'Boring one.', author: goldcustomer}
   -
     name: 'Raspberry Juice (1000ml)'
     description: 'Made from blended Raspberry Pi, water and sugar.'
@@ -225,7 +225,7 @@ products:
     image: green_smoothie.jpg
     reviews:
       - { text: 'Fresh out of a replicator.', author: jim }
-            - { text: 'I dont like cabbages!', author: goldcustomer}
+      - { text: 'I dont like cabbages!', author: goldcustomer}
   -
     name: 'Quince Juice (1000ml)'
     description: 'Juice of the <em>Cydonia oblonga</em> fruit. Not exactly sweet but rich in Vitamin C.'
