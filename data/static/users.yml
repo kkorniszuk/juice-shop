@@ -241,3 +241,51 @@
   password: 'y&x5Z#f6W532ZUf$q3DsdgfgfgxxUsvoCUaDzFU'
   key: emma
   role: 'customer'
+-
+  email: user11
+  password: 'rbmv77wzd11'
+  key: user11
+  role: 'admin'
+  securityQuestion:
+    id: 1
+    answer: 'ihgi43ughi3u54h03982'
+  feedback:
+    comment: 'nie jest dobrze, nie jest też źle'
+    rating: 1
+  address:
+    - fullName: 'Marcin Najman'
+      mobileNum: 1234567890
+      zipCode: '0000'
+      streetAddress: 'Zielona 33'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'Karta 1'
+      cardNum: 4716943965046205
+      expMonth: 3
+      expYear: 2061
+-
+  email: adminaccount
+  password: 'wzwe3233ddd#'
+  key: adminaccount
+  role: 'customer'
+  securityQuestion:
+    id: 2
+    answer: 'aj90249gu0239gj9uh'
+  feedback:
+    comment: 'mocno średnie'
+    rating: 3
+  address:
+    - fullName: 'Jan Kowalski'
+      mobileNum: 1234567890
+      zipCode: '0000'
+      streetAddress: 'Koszykowa 75'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'Moja karta'
+      cardNum: 4716943969046208
+      expMonth: 4
+      expYear: 2081
